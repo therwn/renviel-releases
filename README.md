@@ -1,48 +1,64 @@
+<div align="center">
+
+<img src=".github/icon.png" width="112" alt="Renviel">
+
 # Renviel
 
-One desktop app for all your AI coding CLIs — Codex, Claude Code, Gemini,
-Copilot, Cursor and more — with multiple accounts per provider and
-context-preserving handoff between them.
+**All your AI coding agents in one app.**<br>
+Codex, Claude Code, Gemini, Copilot, Cursor and more — with several accounts per provider,<br>
+and your context carried over whenever you switch.
 
-This repository only hosts **downloads and the in-app update feed**.
+<br>
 
-## Download
+<a href="https://renviel.com/download/mac-arm"><img src="https://img.shields.io/badge/macOS-Apple%20Silicon-111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS (Apple Silicon)"></a>
+<a href="https://renviel.com/download/mac-intel"><img src="https://img.shields.io/badge/macOS-Intel-111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS (Intel)"></a>
+<a href="https://renviel.com/download/windows"><img src="https://img.shields.io/badge/Windows-10%20%2F%2011-111?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
 
-Get the latest version from **[Releases](https://github.com/therwn/renviel-releases/releases/latest)**:
+<sub>Free · <a href="https://github.com/therwn/renviel-releases/releases">All releases</a> · <a href="https://renviel.com">renviel.com</a></sub>
 
-| Platform | File |
-| --- | --- |
-| macOS — Apple Silicon (M1–M4) | `Renviel_<version>_aarch64.dmg` |
-| macOS — Intel | `Renviel_<version>_x64.dmg` |
-| Windows 10/11 | `Renviel_<version>_x64-setup.exe` |
+</div>
+
+<br>
+
+- **Ten CLIs, one window** — the same chat, tools and history for every provider.
+- **Every account, isolated** — each login lives in its own profile, nothing mixes.
+- **Switch without starting over** — hit a limit or want another model? Continue with another account; a short handoff note brings the next agent up to speed.
+- **Stay in control** — undo any turn, see the agent's plan, get a read-only second opinion, and check usage from the menu bar.
 
 ## First launch
 
-Renviel is free and is not notarized by Apple or signed by Microsoft, so
-your system asks for confirmation **once**:
+Renviel is free and isn't notarized by Apple or signed by Microsoft, so your system asks for confirmation **once**.
 
-**macOS**
+<details>
+<summary><b>macOS</b></summary>
+
 1. Open the `.dmg` and drag **Renviel** into **Applications**.
-2. Open Renviel. macOS says it can't verify the developer — click **Done**.
-3. Go to **System Settings → Privacy & Security**, scroll down and click
-   **Open Anyway** next to the Renviel message, then confirm.
+2. Open Renviel. When macOS says it can't verify the developer, click **Done**.
+3. Open **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
 
-**Windows**
-1. Run `Renviel_<version>_x64-setup.exe`.
-2. If "Windows protected your PC" appears, click **More info → Run anyway**.
+</details>
 
-After that, updates are installed from inside the app
-(Settings → About → Updates).
+<details>
+<summary><b>Windows</b></summary>
 
-## Requirements
+1. Run the setup file.
+2. On *“Windows protected your PC”*, click **More info → Run anyway**.
 
-- macOS 13 or later, or Windows 10/11
-- At least one provider CLI you want to use (Renviel shows install
-  commands in Settings → Models)
+</details>
 
-## Links
+Updates install from inside the app after that.
 
-- Website: https://renviel.com
-- Privacy: https://renviel.com/privacy
-- Terms: https://renviel.com/terms
-- Report a problem: [open an issue](https://github.com/therwn/renviel-releases/issues/new)
+**Requirements:** macOS 13+ or Windows 10/11, and at least one provider CLI — Renviel shows the install command for any that are missing.
+
+---
+
+<div align="center">
+<sub>
+<a href="https://renviel.com">Website</a> ·
+<a href="https://renviel.com/contact?type=bug">Report a problem</a> ·
+<a href="https://renviel.com/privacy">Privacy</a> ·
+<a href="https://renviel.com/terms">Terms</a>
+<br><br>
+Renviel is not affiliated with OpenAI, Anthropic, Google, GitHub or any other provider.
+</sub>
+</div>
