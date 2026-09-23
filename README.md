@@ -27,28 +27,13 @@ and your context carried over whenever you switch.
 
 ## First launch
 
-Renviel is free and isn't notarized by Apple or signed by Microsoft, so your system asks for confirmation **once**.
+**macOS** — signed and notarized by Apple. Open the `.dmg`, drag **Renviel** into **Applications** and open it.
 
-<details>
-<summary><b>macOS</b></summary>
-
-1. Open the `.dmg` and drag **Renviel** into **Applications**.
-2. Open Renviel. When macOS says it can't verify the developer, click **Done**.
-3. Open **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
-
-</details>
-
-<details>
-<summary><b>Windows</b></summary>
-
-1. Run the setup file.
-2. On *“Windows protected your PC”*, click **More info → Run anyway**.
-
-</details>
+**Windows** — run the setup file. Renviel isn't signed with a paid Microsoft certificate, so on *“Windows protected your PC”* click **More info → Run anyway** (once).
 
 Updates install from inside the app after that.
 
-**Requirements:** macOS 13+ or Windows 10/11, and at least one provider CLI — Renviel shows the install command for any that are missing.
+**Requirements:** macOS 13+ or Windows 10/11, and at least one provider CLI — Renviel installs most of them for you with one click.
 
 ---
 
