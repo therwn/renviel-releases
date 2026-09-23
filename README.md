@@ -10,9 +10,9 @@ and your context carried over whenever you switch.
 
 <br>
 
-<a href="https://renviel.com/download/mac-arm"><img src="https://img.shields.io/badge/macOS-Apple%20Silicon-111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS (Apple Silicon)"></a>
-<a href="https://renviel.com/download/mac-intel"><img src="https://img.shields.io/badge/macOS-Intel-111?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS (Intel)"></a>
-<a href="https://renviel.com/download/windows"><img src="https://img.shields.io/badge/Windows-10%20%2F%2011-111?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
+<a href="https://renviel.com/download/mac-arm"><img src="https://img.shields.io/badge/macOS-Apple%20Silicon-2f81f7?style=for-the-badge&logo=apple&logoColor=white&labelColor=24292f" alt="Download for macOS (Apple Silicon)"></a>
+<a href="https://renviel.com/download/mac-intel"><img src="https://img.shields.io/badge/macOS-Intel-2f81f7?style=for-the-badge&logo=apple&logoColor=white&labelColor=24292f" alt="Download for macOS (Intel)"></a>
+<a href="https://renviel.com/download/windows"><img src="https://img.shields.io/badge/Windows-10%20%2F%2011-2f81f7?style=for-the-badge&logo=windows&logoColor=white&labelColor=24292f" alt="Download for Windows"></a>
 
 <sub>Free · <a href="https://github.com/therwn/renviel-releases/releases">All releases</a> · <a href="https://renviel.com">renviel.com</a></sub>
 
